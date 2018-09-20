@@ -1,4 +1,6 @@
-## Please make sure you have Server API like JSON Server to run the project because this project is to work with api
+## You can visit the project by the [link](https://redux-react-callapi-router.netlify.com/)
+
+## Please make sure the Server API like JSON Server is live because this project is to work with api
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
