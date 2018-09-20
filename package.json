@@ -2,7 +2,7 @@
     "name": "lesson16-call-api",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://hongduc-phan.github.io/ReactJs/",
+    "homepage": "https://hongduc-phan.github.io/ReactJs-Redux-Axios-Router/",
     "dependencies": {
         "axios": "^0.17.1",
         "gh-pages": "^2.0.0",
